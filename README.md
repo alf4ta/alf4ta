@@ -11,7 +11,7 @@ System.Console.WriteLine("Follow @alf4ta on github<3");
 Languages  :  Python, Java, Js, Batch, HTML/CSS, CSharp, Cpp
 ```
 
-```C#
+```css
 The easiest way to make money is to create something of such value that everybody wants and go out and give and create value, the money comes automatically
 ```
 
