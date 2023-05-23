@@ -4,7 +4,7 @@
 <p align="center"><a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://discordapp.com/api/guilds/1079152298581819513/widget.png?style=shield" alt="shield.png"></a></p></p>
 
 ```python
-print(f'Follow {alf4ta} on Github')
+System.Console.WriteLine("Follow @alf4ta on github<3");
 ```
 
 ```python
@@ -12,7 +12,7 @@ print(f'Follow {alf4ta} on Github')
 Languages  :  Python, Java, Js, Batch, HTML/CSS, CSharp, Cpp
 ```
 
-```json
+```HTML
 The easiest way to make money is -create something of such value that everybody wants and go out and give and create value, the money comes automatically
 ```
 
