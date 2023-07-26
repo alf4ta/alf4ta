@@ -1,5 +1,3 @@
-<p align="center"><img src="https://gpvc.arturio.dev/alf4ta" alt="Visitors"></a>
-
 ```python
 print("@alf4ta on github");
 ```
