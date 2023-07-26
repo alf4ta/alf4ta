@@ -3,8 +3,9 @@ print("@alf4ta on github");
 ```
 
 ```python
-   OS  :  Windows 10
+OS         :  Windows 10
 Languages  :  Python, HTML/CSS, CSharp
+Discord    : @alfata, @fathvher
 ```
 
 ```css
