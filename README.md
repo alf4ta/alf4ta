@@ -6,7 +6,7 @@ System.Console.WriteLine("Follow @alf4ta on github<3");
 
 ```python
    Python  :  python 3.9.13
-Languages  :  Python, HTML/CSS, CSharp, Cpp
+Languages  :  Python, HTML/CSS, CSharp
 ```
 
 ```css
