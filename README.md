@@ -3,7 +3,7 @@ print("@alf4ta on github");
 ```
 
 ```python
-   Python  :  python 3.9.13
+   OS  :  Windows 10
 Languages  :  Python, HTML/CSS, CSharp
 ```
 
