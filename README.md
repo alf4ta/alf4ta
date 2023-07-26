@@ -1,7 +1,7 @@
 <p align="center"><img src="https://gpvc.arturio.dev/alf4ta" alt="Visitors"></a>
 
 ```python
-System.Console.WriteLine("Follow @alf4ta on github<3");
+print("@alf4ta on github");
 ```
 
 ```python
