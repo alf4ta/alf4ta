@@ -1,3 +1,5 @@
+<img src="https://profile-counter.glitch.me/alf4ta/count.svg" />
+
 ```python
 print("@alf4ta on github");
 ```
